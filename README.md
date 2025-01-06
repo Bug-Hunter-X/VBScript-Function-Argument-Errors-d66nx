@@ -1,0 +1,3 @@
+# VBScript Function Argument Errors
+
+This repository demonstrates a common but easily overlooked error in VBScript: incorrect function argument handling.  VBScript's relatively weak type system means that errors can manifest unexpectedly.  The example shows a function that throws an error when supplied with an incorrect number or type of arguments.  The solution demonstrates better error handling and argument validation.
